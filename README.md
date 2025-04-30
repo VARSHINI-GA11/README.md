@@ -34,7 +34,7 @@ I'm a passionate tech enthusiast exploring AI, Machine Learning, and real-world 
 - 🔍 Algorithms Specialization (Coursera)
 
 ---
-![LeetCode Stats](leetcode.com/u/Var_shini2005/)
+![LeetCode Stats](https://leetcode.com/u/Var_shini2005/)
 
 ---
 
