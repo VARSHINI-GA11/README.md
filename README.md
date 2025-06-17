@@ -21,7 +21,7 @@ I'm a passionate tech enthusiast exploring AI, Machine Learning, and real-world 
 ---
 
 🔬 Projects
-- 🎯 **AI-powered Complaint Management** for Indian Railways | SIH'24 Finalist
+- 🎯 **AI-powered Complaint Management** for Indian Railways | SIH'24
 - 🧬 **Kidney Disease Prediction System** using CNN
 - 📈 **Power BI Dashboards** for economic and social impact analytics
 
